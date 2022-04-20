@@ -14,7 +14,7 @@ export default function App() {
     return (
         <div className ='container'>
             <Navbar/>
-            <section className='list'>
+            <section className='list clear d-flex '>
                 {places}
             </section>
         </div>

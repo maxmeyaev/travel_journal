@@ -1,0 +1,9 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 206 112" width="206" height="112">
+	<title>Deep Blue and White Simple Typography Initials Logo (1)</title>
+	<defs>
+		<image  width="206" height="112" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAM4AAABwCAMAAABhAb/zAAAAAXNSR0IB2cksfwAAARdQTFRF9Pb8kJKVlpebeHl8fX6BVVZYent+PDw+Pj9AWFlb6evxYWJkUlNV6+30U1ZyPUFgPEBfRElmy83ZWFx3vL/M7e/2gIOZdHiPYmZ/BQowPkJhen6U1Nfh3d7oyszYf4KY1djicHSMcnaOzdDbe3+Vx8nWg4abtbfGkpaonaCyr7HBd3uSuLrJ4uTtQUZjGB1A8/X7IiZJYWV+2dzlBwwyV1t2ZWiCEBU53+HrvcDNEhc7P0NilJeqFRo9GR9BfICWwMPP4+Xu4ePsra/AT1JvOj5e6evz7O71HCFEp6u7ICRHCg80CA0zJSlLh4qe8PL42t3mu77LnqGzsbPDz9Ld6uzyMDEyt7i9WlpdXl5hurzA2dvg2tzhcK6ArAAAAbxJREFUeJzt3FdPAmEQhWHsXazgKCqCDUXFjr1g7xXr//8dJqCCiRffmbAwq+e9IZvMZvaBzV6QQCDAGLNcVXWlr6Ck1dRW+gpKGjmWI8dy5FiOHHV19Z7X0Oj9jqa8prnF+3esHJ9Oa/6FHDhy4MjRRg4cOdrIgSNHGzlw5GgjB44cbeTAkaONHDhytJEDR442cuD+MaetPdjxW8HOLpdVak53j/MowukNhb/rk/7CwUDEZZWWMyhh51ntzTYkw+AZak5URpxnyclFDjm5yCGHHPSMfBGJOc/6gBOXUedZH3DGZNx51gecCZl0nvUBJyFTzrM+4ExL3HnWIic58+Nwdi7lvMMiZ36h+Ghxadl9h0XOymq6+EjW3HdY5ETXNwq326a0Azu0nLiEwDOAR0Fya3tndy8VSO1nDuTwCNih5RyfnIJnIE+2dOxMRM4vRC6vrpEdZr+YurnN3CXuH8AdZjm6yNFGDhw52siBI0cbOXDkaCMHjhxt5MCRo40cOHK0kQNHjjZy4P4m5zHr/Y/vy/ED/+wn68n7nl+83/Hq/Q3wFf8cw3LkWI4cy5FjuT/GeXuv9BUwxhiz0AfJv3jMndPDPAAAAABJRU5ErkJggg=="/>
+	</defs>
+	<style>
+	</style>
+	<use id="Background" href="#img1" x="0" y="0"/>
+</svg>
